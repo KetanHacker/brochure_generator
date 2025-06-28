@@ -14,7 +14,7 @@ An AI-powered tool that automatically generates company brochures by analyzing w
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/KetanHacker/brochure_generator.git
    cd brochure_generator
    ```
 
